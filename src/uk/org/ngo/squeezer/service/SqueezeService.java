@@ -908,7 +908,7 @@ public class SqueezeService extends Service {
             return playerState;
         }
 
-        public SqueezerSong currentSong() throws RemoteException {
+        public SqueezerSong getCurrentSong() throws RemoteException {
             return playerState.getCurrentSong();
         }
 

@@ -114,5 +114,4 @@ public class YearSpinner {
     	SqueezerYear getYear();
     	void setYear(SqueezerYear year);
     }
-
 }

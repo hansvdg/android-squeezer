@@ -209,8 +209,8 @@
         <item>Willekeurige mix</item>
         <item>Playlisten</item>
         <item>Internet Radio</item>
-        <item>My Apps</item>
         <item>Favorieten</item>
+        <item>My Apps</item>
     </string-array>
 
     <string-array name="randomplay_items">
